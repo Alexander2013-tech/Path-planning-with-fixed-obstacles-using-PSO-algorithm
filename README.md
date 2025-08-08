@@ -4,7 +4,6 @@ This project implements a Particle Swarm Optimization (PSO) algorithm to find an
 
 ## Features
 
-- User-configurable number of waypoints.
 - User-configurable number of PSO iterations.
 - Obstacle avoidance with circular obstacles.
 - Interactive GUI using Tkinter and Matplotlib.
